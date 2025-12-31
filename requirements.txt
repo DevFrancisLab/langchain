@@ -3,3 +3,7 @@ langchain_google_genai
 python-dotenv
 grandalf
 langchain_groq
+langchain_community
+pypdf
+jq
+#unstructured[pdf, csv, txt, json]
