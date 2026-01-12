@@ -6,4 +6,5 @@ langchain_groq
 langchain_community
 pypdf
 jq
-#unstructured[pdf, csv, txt, json]
+unstructured[pdf, csv, txt, json]
+chromadb
