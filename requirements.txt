@@ -8,3 +8,4 @@ pypdf
 jq
 unstructured[pdf, csv, txt, json]
 chromadb
+faiss-cpu
