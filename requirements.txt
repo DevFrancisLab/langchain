@@ -9,3 +9,4 @@ jq
 unstructured[pdf, csv, txt, json]
 chromadb
 faiss-cpu
+rank_bm25
